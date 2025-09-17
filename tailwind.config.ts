@@ -47,6 +47,24 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        // Custom monastery colors
+        monastery: {
+          gold: "hsl(var(--monastery-gold))",
+          burgundy: "hsl(var(--monastery-burgundy))",
+        },
+        mountain: {
+          blue: "hsl(var(--mountain-blue))",
+        },
+        prayer: {
+          red: "hsl(var(--prayer-flag-red))",
+          blue: "hsl(var(--prayer-flag-blue))",
+        },
+        earth: {
+          brown: "hsl(var(--earth-brown))",
+        },
+        snow: {
+          white: "hsl(var(--snow-white))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
