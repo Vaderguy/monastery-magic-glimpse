@@ -4,6 +4,7 @@ import MonasteriesSection from "@/components/MonasteriesSection";
 import TechnicalApproach from "@/components/TechnicalApproach";
 import TouristPackages from "@/components/TouristPackages";
 import Footer from "@/components/Footer";
+import ChatBot from "@/components/ChatBot";
 
 const Index = () => {
   return (
@@ -14,6 +15,7 @@ const Index = () => {
       <TechnicalApproach />
       <TouristPackages />
       <Footer />
+      <ChatBot />
     </div>
   );
 };
